@@ -1,1 +1,2 @@
-# Group-Project-2
+# Team 2 MIST4610 Group 2 
+# Team Members
