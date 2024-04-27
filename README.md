@@ -11,6 +11,33 @@
 The dataset we used for this project was
 (https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u). This dataset contained 24 columns and over 5.72 million rows of data regarding arrest details, demographic information such as age, race and gender, the type of offense that was committed and where the offense took place. Listed below is each of the columns and what each column represents. The dataset originally had data from 2006; however, we decided to use data from more recently (1/1/2020 - 12/31/2023) to address if COVID had any impact on more recent crime. After manipulating the dataset to just contain the set dates we wanted the rows decreased from 5.72 million rows to just about 700,000. 
 
+Below is each column name and what the column does for the dataset
+Arrest Key: A unique identifier for each arrest record.
+Arrest Date: The date and time when the arrest occurred.
+PD Cd: The internal code used by the NYPD to represent the specific offense.
+PD Desc: A description of the offense corresponding to the PD Code.
+KY Cd: The internal code used by the NYPD to classify the offense.
+OFNS Desc: A description of the offense corresponding to the KY Code.
+LAW Code: The internal code used by the NYPD to represent the law under which the arrest was made.
+LAW Cat Cd: The category of law under which the arrest was made (e.g., felony, misdemeanor, violation).
+Arrest Boro: The borough where the arrest occurred (e.g., Manhattan, Bronx, Brooklyn, Queens, Staten Island).
+Arrest Precinct: The precinct where the arrest occurred.
+Jurisdiction Code: The jurisdiction code indicating the agency responsible for the arrest.
+Age Group: The age group of the individual arrested.
+Perp Sex: The gender of the individual arrested (e.g., Male, Female).
+Perp Race: The race of the individual arrested.
+X Coord Cd: The X-coordinate of the location where the arrest occurred.
+Y Coord Cd: The Y-coordinate of the location where the arrest occurred.
+Latitude: The latitude coordinate of the location where the arrest occurred.
+Longitude: The longitude coordinate of the location where the arrest occurred.
+Lon Lat: The combined longitude and latitude coordinates.
+Zip Codes: The zip code of the location where the arrest occurred.
+Community Districts: The community district of the location where the arrest occurred.
+Borough Boundaries: The boundary of the borough where the arrest occurred.
+City Council Districts: The city council district of the location where the arrest occurred.
+Police Precincts: The police precinct of the location where the arrest occurred.
+
+
 # Question 1 Explained
 Question: What trends emerge when analyzing the relationship between age and demographics and the prevalence of specific types of crime in New York City?
 
