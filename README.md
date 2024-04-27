@@ -14,30 +14,53 @@ Descriptions of the data set: The dataset we used for this project was
 
 **Below is a description of what each column in the dataset is and what it is used for**
 
-Arrest Key: A unique identifier for each arrest record.
-Arrest Date: The date and time when the arrest occurred.
-PD Cd: The internal code used by the NYPD to represent the specific offense.
-PD Desc: A description of the offense corresponding to the PD Code.
-KY Cd: The internal code used by the NYPD to classify the offense.
-OFNS Desc: A description of the offense corresponding to the KY Code.
-LAW Code: The internal code used by the NYPD to represent the law under which the arrest was made.
-LAW Cat Cd: The category of law under which the arrest was made (e.g., felony, misdemeanor, violation).
-Arrest Boro: The borough where the arrest occurred (e.g., Manhattan, Bronx, Brooklyn, Queens, Staten Island).
-Arrest Precinct: The precinct where the arrest occurred.
-Jurisdiction Code: The jurisdiction code indicating the agency responsible for the arrest.
-Age Group: The age group of the individual arrested.
-Perp Sex: The gender of the individual arrested (e.g., Male, Female).
-Perp Race: The race of the individual arrested.
-X Coord Cd: The X-coordinate of the location where the arrest occurred.
-Y Coord Cd: The Y-coordinate of the location where the arrest occurred.
-Latitude: The latitude coordinate of the location where the arrest occurred.
-Longitude: The longitude coordinate of the location where the arrest occurred.
-Lon Lat: The combined longitude and latitude coordinates.
-Zip Codes: The zip code of the location where the arrest occurred.
-Community Districts: The community district of the location where the arrest occurred.
-Borough Boundaries: The boundary of the borough where the arrest occurred.
-City Council Districts: The city council district of the location where the arrest occurred.
-Police Precincts: The police precinct of the location where the arrest occurred.
+**Arrest Key**: A unique identifier for each arrest record.
+
+**Arrest Date**: The date and time when the arrest occurred.
+
+**PD Cd**: The internal code used by the NYPD to represent the specific offense.
+
+**PD Desc**: A description of the offense corresponding to the PD Code.
+
+**KY Cd**: The internal code used by the NYPD to classify the offense.
+
+**OFNS Desc**: A description of the offense corresponding to the KY Code.
+
+**LAW Code**: The internal code used by the NYPD to represent the law under which the arrest was made.
+
+**LAW Cat Cd**: The category of law under which the arrest was made (e.g., felony, misdemeanor, violation).
+
+**Arrest Boro**: The borough where the arrest occurred (e.g., Manhattan, Bronx, Brooklyn, Queens, Staten Island).
+
+**Arrest Precinct**: The precinct where the arrest occurred.
+
+**Jurisdiction Code**: The jurisdiction code indicating the agency responsible for the arrest.
+
+**Age Group**: The age group of the individual arrested.
+
+**Perp Sex**: The gender of the individual arrested (e.g., Male, Female).
+
+**Perp Race**: The race of the individual arrested.
+
+**X Coord Cd**: The X-coordinate of the location where the arrest occurred.
+
+**Y Coord Cd**: The Y-coordinate of the location where the arrest occurred.
+
+**Latitude**: The latitude coordinate of the location where the arrest occurred.
+
+**Longitude**: The longitude coordinate of the location where the arrest occurred.
+
+**Lon Lat**: The combined longitude and latitude coordinates.
+
+**Zip Codes**: The zip code of the location where the arrest occurred.
+
+**Community Districts**: The community district of the location where the arrest occurred.
+
+**Borough Boundaries**: The boundary of the borough where the arrest occurred.
+
+**City Council Districts**: The city council district of the location where the arrest occurred.
+
+**Police Precincts**: The police precinct of the location where the arrest occurred.
 
 
 
