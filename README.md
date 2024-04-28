@@ -80,10 +80,10 @@ This question would help with understanding which age groups are more susceptibl
 
 
 # Question 2 Explained
-Question: Does the borough and covid have an impact on the number and type of crime that takes place?
+Does the borough and covid have an impact on the number of crimes that take place?
 
 Importance:
-This question is important because New York City has a large population, so it is necessary to break it down into smaller chunks such as boroughs. Each borough is distinct in terms of features such as the culture, attractions, and the people who live there, so it is important to individualize them versus grouping them as one. Because of these differences, the amount of crimes and type of crimes will differ vastly among the boroughs. Some places may have more serious crimes, where other boroughs may have a greater amount. It’s important to highlight the differences, as it allows for police forces to allocate their limited number of resources in a vast population to the places that need it the most. Examining trends and relationships will allow for an eventual decrease in crimes that will take place within each borough, overall decreasing the crime rate for New York City. It is also important to examine the differences between now and when the covid pandemic started. We want to see the differences in crime rate, with factors such as unemployment and lifestyle changes potentially increasing or decreasing the crime rate and types of crimes occurring. Understanding if these factors are important in terms of crime can signify whether the New York government should take action in regard to these issues for tackling the issue of crime.
+This question is important because New York City has a large population, so it is necessary to break it down into smaller chunks such as boroughs. Each borough is distinct in terms of features such as the culture, attractions, and the people who live there, so it is important to individualize them versus grouping them as one. Because of these differences, the amount of crimes may differ vastly among the boroughs. It’s important to highlight the differences, as it allows for police forces to allocate their limited number of resources in a vast population to the places that need it the most. Examining trends and relationships will allow for an eventual decrease in crimes that will take place within each borough, overall decreasing the crime rate for New York City. It is also important to examine the differences between now and when the covid pandemic started. We want to see the differences in crime rate, with factors such as unemployment and lifestyle changes potentially increasing or decreasing the crime rate. Understanding if these factors are important in terms of crime can signify whether the New York government should take action in regard to these issues for tackling the issue of crime.
 
 
 ![image](https://github.com/DylanLaddUGA/Group-Project-2/assets/163002852/7944fc1b-c575-4b7b-8fc4-b58b6ff09c02)
@@ -92,3 +92,5 @@ This question is important because New York City has a large population, so it i
 
 # Data Manipulations
  Given the volume of data that was in the orginal dataset, 5.72 million rows, we decided to condense it to roughly 700,000 rows, excluding all data that was retrieved before Jan 1, 2020.  This allowed us to provide a more in-depth analysis of the arrests that occurred during and after the COVID-19 pandemic. In addition to this, the data in the chart’s were grouped based on similar arrest descriptions to remove clutter in the visualizations and make the data easier to comprehend.
+
+ # Tableau packaged workbook
