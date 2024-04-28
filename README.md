@@ -92,6 +92,7 @@ This question is important because New York City has a large population, so it i
 
 ![image](https://github.com/DylanLaddUGA/Group-Project-2/assets/163002852/7944fc1b-c575-4b7b-8fc4-b58b6ff09c02)
 
+As you absorb our line graph, it is important to note the key identifiers. Each colored line represents a NYC Borough. B Blue is the Bronx, K Orange is Brooklyn, M Pink is Manhattan, Q teal is Queens, and S Green is Staten Island. Each of these identifiers help showcase a narrative of how the boroughs crime rates have evolved over time. There is an overall pattern after 2020 where 4 boroughs follow a similar pattern together. It is important to note Staten Island, the least densely populated borough has a consistent trajectory spanning 5 years with the least amount of crimes. Brooklyn maintains the highest rate of crime per year with Manhattan peaking over them just once in late 2021. The Bronx started the 2020s clearly behind Manhattan but caught up through the years even surpassing Manhattan in the last 12 months. All of the boroughs tend to be down on crime during the start of 2020 as the global pandemic Covid-19 spread through the United States, which forced many people to stay inside of their homes. As covid restrictions started to loosen up, we can see that the number of crimes that took place significantly increased within all of the boroughs.
 
 
 # Data Manipulations
