@@ -74,6 +74,9 @@ This question would help with understanding which age groups are more susceptibl
 
 ![Screen Shot 2024-04-28 at 6 58 27 PM](https://github.com/DylanLaddUGA/Group-Project-2/assets/163002982/44574940-2342-4845-a15c-5eeffbdcc754)
 
+![image](https://github.com/DylanLaddUGA/Group-Project-2/assets/163002852/27c82584-1304-4374-888a-2ef3e0f8fe2d)
+
+
 ![Screen Shot 2024-04-28 at 6 59 05 PM](https://github.com/DylanLaddUGA/Group-Project-2/assets/163002982/5f1f8aeb-3c5e-4ce6-98b8-f5bf1c4d8793)
 
 
