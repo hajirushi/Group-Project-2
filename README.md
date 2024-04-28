@@ -76,6 +76,9 @@ This question would help with understanding which age groups are more susceptibl
 ![image](https://github.com/DylanLaddUGA/Group-Project-2/assets/163002852/27c82584-1304-4374-888a-2ef3e0f8fe2d)
 
 
+The first graph offers a compelling visual depiction illustrating the correlation between age demographics and arrest occurrences. A majority of arrested individuals fall between age brackets spanning from 25 to 44 years. Moreover, what stands out from the data is how much assault-related offenses dominate within this age group. It makes you wonder what's going on in people's lives during those years that might lead to this kind of behavior. This information is important to know so we can put efforts into deciphering why individuals in this age group commit such a high percentage of assaults.
+
+
 ![image](https://github.com/DylanLaddUGA/Group-Project-2/assets/163002852/e9dc0b9f-6da4-4477-b69c-36b2ab8b757f)
 
 
