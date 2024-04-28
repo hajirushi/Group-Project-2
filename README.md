@@ -86,7 +86,8 @@ Importance:
 This question is important because New York City has a large population, so it is necessary to break it down into smaller chunks such as boroughs. Each borough is distinct in terms of features such as the culture, attractions, and the people who live there, so it is important to individualize them versus grouping them as one. Because of these differences, the amount of crimes and type of crimes will differ vastly among the boroughs. Some places may have more serious crimes, where other boroughs may have a greater amount. It’s important to highlight the differences, as it allows for police forces to allocate their limited number of resources in a vast population to the places that need it the most. Examining trends and relationships will allow for an eventual decrease in crimes that will take place within each borough, overall decreasing the crime rate for New York City. It is also important to examine the differences between now and when the covid pandemic started. We want to see the differences in crime rate, with factors such as unemployment and lifestyle changes potentially increasing or decreasing the crime rate and types of crimes occurring. Understanding if these factors are important in terms of crime can signify whether the New York government should take action in regard to these issues for tackling the issue of crime.
 
 
-![Screen Shot 2024-04-28 at 6 57 40 PM](https://github.com/DylanLaddUGA/Group-Project-2/assets/163002982/c93b4c70-d029-484a-b2a5-9092a760a064)
+![image](https://github.com/DylanLaddUGA/Group-Project-2/assets/163002852/7944fc1b-c575-4b7b-8fc4-b58b6ff09c02)
+
 
 
 # Data Manipulations
