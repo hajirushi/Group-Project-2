@@ -72,12 +72,11 @@ Question: What trends emerge when analyzing the relationship between age and dem
 Importance:
 This question would help with understanding which age groups are more susceptible to certain types of crimes, in turn this could help to inform law enforcement strategies and crime prevention efforts. By identifying the trends in crime prevalence it would allow for authorities to allocate resources to be more efficient in reducing crime. Examining the relationship between age and demographics would bring forward certain societal issues such as inequality, poverty and gaining access to important education and employment opportunities, identifying the societal issues and allocating the needed resources to stopping crime would lead to a decrease in long term crime rate. Finally by grasping the trends and enforcing the preventative measures it would allow for New York City to become safer as a whole.
 
-![Screen Shot 2024-04-28 at 6 58 27 PM](https://github.com/DylanLaddUGA/Group-Project-2/assets/163002982/44574940-2342-4845-a15c-5eeffbdcc754)
 
 ![image](https://github.com/DylanLaddUGA/Group-Project-2/assets/163002852/27c82584-1304-4374-888a-2ef3e0f8fe2d)
 
 
-![Screen Shot 2024-04-28 at 6 59 05 PM](https://github.com/DylanLaddUGA/Group-Project-2/assets/163002982/5f1f8aeb-3c5e-4ce6-98b8-f5bf1c4d8793)
+![image](https://github.com/DylanLaddUGA/Group-Project-2/assets/163002852/e9dc0b9f-6da4-4477-b69c-36b2ab8b757f)
 
 
 # Question 2 Explained
