@@ -9,8 +9,7 @@
 6. Kyle O'Connor [@kyleoconnor5](https://github.com/kyleoconnor5)
 # Dataset Description
 Descriptions of the data set: The dataset we used for this project was
-(https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u). This dataset contained 24 columns and over 5.72 million rows of data. The columns used in the dataset are listed below along with what each column is used for in the dataset. The dataset originally had data from 2006; however, we decided to use data from more recently (1/1/2020 - 12/31/2023) to address if COVID had any impact on more recent crime. After manipulating the dataset to just contain the set dates we wanted the rows decreased from 5.72 million rows to just about 700,000. 
-
+(https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u). The dataset we are working with deals with the information on NYPD arrest records. The NYPD dataset, with its comprehensive records of law enforcement activities, holds significant importance, containing details of incidents, arrests, and other activities conducted by the New York City Police Department. It serves as a valuable resource for understanding crime patterns, trends, and the effectiveness of law enforcement strategies over time. This dataset originally contained 24 columns and over 5.72 million rows of data. The columns used in the dataset are listed below, along with their respective purposes. Originally, the dataset contained data from 2006; however, we decided to use more recent data (1/1/2020 - 12/31/2023) to assess if COVID had any impact on recent crime. After manipulating the dataset to include only the specified dates, the number of rows decreased from 5.72 million to approximately 700,000. This reduction streamlines the analysis process and provides a more manageable dataset.
 
 **Below is a description of what each column in the dataset is and what it is used for**
 
